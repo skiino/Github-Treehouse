@@ -1,2 +1,4 @@
 This repo is for my course files completed through team Treehouse
-Have I created a merge conflict?
+
+I am trying to create a merge conflict for practice.
+
